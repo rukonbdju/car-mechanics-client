@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Layout = () => {
+const AboutUs = () => {
     return (
         <div>
-            This is main Layout
+            his this is abuty us
         </div>
     );
 };
 
-export default Layout;
+export default AboutUs;
